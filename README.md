@@ -28,9 +28,10 @@
 ![UI/UX](https://img.shields.io/badge/UI/UX_Design-FFFF99?style=for-the-badge&logo=figma&logoColor=black)
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xavleflip&show_icons=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff&bg_color=151515&hide_border=true" alt="Ebi's GitHub Stats" />
 </p>
+-->
