@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abyan (or you can call me Ebi🦐!) 👋</h1>
+<h1 align="center">Hi, I'm Ebi🦐! 👋</h1>
 <h3 align="center">Software Developer & Aspiring Game Developer 🎮</h3>
 
 <p align="center">
