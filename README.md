@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ebi🦐! 👋</h1>
+<h1 align="center">Hi, I'm Ebi🦐👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFFF99?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
