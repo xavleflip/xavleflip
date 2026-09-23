@@ -27,9 +27,3 @@
 </div>
 
 ---
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xavleflip&show_icons=true&title_color=FFFF99&icon_color=FFFF99&text_color=ffffff&bg_color=151515&hide_border=true" alt="Ebi's GitHub Stats" />
-</p>
