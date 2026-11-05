@@ -12,10 +12,6 @@
 ![Figma](https://img.shields.io/badge/Figma-FFB26B?style=for-the-badge&logo=figma&logoColor=111111)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xavleflip&show_icons=true&title_color=FF6A00&icon_color=FF6A00&text_color=FFF1E3&bg_color=111111&hide_border=true" width="48%" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xavleflip&theme=dark&background=111111&stroke=FF6A00&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&sideLabels=FFF1E3&dates=FFB26B" alt="GitHub Streak" />
 </p>
 
