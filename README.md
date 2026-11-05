@@ -7,9 +7,10 @@
     <img src="https://komarev.com/ghpvc/?username=xavleflip&color=FF6A00&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </a>
 </p>
+
 <p align="center">
-![Python](https://img.shields.io/badge/Python-FF6A00?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FFB26B?style=for-the-badge&logo=figma&logoColor=111111)
+  <img src="https://img.shields.io/badge/Python-FF6A00?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Figma-FFB26B?style=for-the-badge&logo=figma&logoColor=111111" alt="Figma" />
 </p>
 
 <p align="center">
@@ -17,6 +18,7 @@
 </p>
 
 ---
+
 <div align="center">
   <picture>
     <source
