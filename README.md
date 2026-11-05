@@ -13,7 +13,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xavleflip&show_icons=true&title_color=FF6A00&icon_color=FF6A00&text_color=FFF1E3&bg_color=111111&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xavleflip&layout=compact&title_color=FF6A00&text_color=FFF1E3&bg_color=111111&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
