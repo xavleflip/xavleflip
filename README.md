@@ -7,9 +7,10 @@
     <img src="https://komarev.com/ghpvc/?username=xavleflip&color=FF6A00&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </a>
 </p>
-
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-FF6A00?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FFB26B?style=for-the-badge&logo=figma&logoColor=111111)
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xavleflip&theme=dark&background=111111&stroke=FF6A00&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&sideLabels=FFF1E3&dates=FFB26B" alt="GitHub Streak" />
