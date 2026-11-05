@@ -37,7 +37,7 @@
 
 ### 📫 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/xavleflip">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FF6A00" alt="GitHub"/>
   </a>
