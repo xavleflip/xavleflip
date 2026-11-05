@@ -22,7 +22,7 @@
 ### 📦 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/xavleflip/Taksify">
+  <a href="https://github.com/xavleflip/Taskify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xavleflip&repo=xavleflip&title_color=FF8C00&icon_color=FF8C00&text_color=FFC107&bg_color=000000&border_color=FF8C00" alt="Repository Card" />
   </a>
 </p>
